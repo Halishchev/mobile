@@ -68,6 +68,11 @@ p {
   margin-bottom: 20px;
 }
 
+.container-div__three {
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
 .div-title {
   font-style: normal;
   font-weight: 400;
